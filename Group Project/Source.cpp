@@ -49,6 +49,7 @@ int main() {
 	}
 	case 6:
 	{
+		cout << "test";
 		//Credits and Exit
 		break;
 	}
