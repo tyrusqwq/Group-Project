@@ -4,6 +4,22 @@ using namespace std;
 
 int main() {
 
+	//print welcome in the screen
+	std::cout << "*******************************************************************\n";
+	std::cout << "*    *    *  *******   *        ******  ******  *         *  ******\n";
+	Sleep(1 * 1000);
+	std::cout << "*   * *   *  *         *        *    *  *    *  **      * *  *\n";
+	Sleep(1 * 1000);
+	std::cout << "*  *   *  *  *******   *        *       *    *  * *    *  *  ******\n";
+	Sleep(1 * 1000);
+	std::cout << "* *     * *  *         *        *       *    *  *  *   *  *  *\n";
+	Sleep(1 * 1000);
+	std::cout << "**       **  *         *        *    *  *    *  *   * *   *  *\n";
+	Sleep(1 * 1000);
+	std::cout << "*         *  *******   *******  ******  ******  *    *    *  ******\n";
+	std::cout << "*******************************************************************";
+	//print welcome in the screen
+
 	//SMS menu
 	int num_selected;//which numbers that user input
 	cout << endl;
