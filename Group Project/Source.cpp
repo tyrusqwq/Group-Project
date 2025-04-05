@@ -40,13 +40,11 @@ int main() {
 	{
 	case 1:
 	{
-		cout << "test";
 		//Load Starting Data
 		break;
 	}
 	case 2:
 	{
-		cout << "test2";
 		//Show Student Records
 		break;
 	}
