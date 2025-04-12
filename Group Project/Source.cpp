@@ -47,6 +47,7 @@ int main() {
 	case 2:
 	{
 		//Show Student Records
+		cout << "test";
 		break;
 	}
 	case 3:
