@@ -40,6 +40,7 @@ int main() {
 	{
 	case 1:
 	{
+		cout << "test";
 		//Load Starting Data
 		break;
 	}
